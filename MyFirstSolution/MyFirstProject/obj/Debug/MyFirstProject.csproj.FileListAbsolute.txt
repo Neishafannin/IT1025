@@ -1,0 +1,6 @@
+C:\Users\Neisha\Desktop\MyFirstSolution\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+C:\Users\Neisha\Desktop\MyFirstSolution\MyFirstProject\bin\Debug\MyFirstProject.exe
+C:\Users\Neisha\Desktop\MyFirstSolution\MyFirstProject\bin\Debug\MyFirstProject.pdb
+C:\Users\Neisha\Desktop\MyFirstSolution\MyFirstProject\obj\Debug\MyFirstProject.csprojResolveAssemblyReference.cache
+C:\Users\Neisha\Desktop\MyFirstSolution\MyFirstProject\obj\Debug\MyFirstProject.exe
+C:\Users\Neisha\Desktop\MyFirstSolution\MyFirstProject\obj\Debug\MyFirstProject.pdb
